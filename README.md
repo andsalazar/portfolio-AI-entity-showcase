@@ -36,9 +36,9 @@ Every fact lives in one typed content file. The site renders from it, the résum
 
 The file also carries notes that only the Entity reads: what a number does and does not mean, which facts must not be combined, which work is private and can be named only as a category. Those notes are most of what keeps an answer honest. A partner list for one program, for example, is not a partner list for another program in the same job, and the record says so in as many words.
 
-## The gate: 56 questions before every deploy
+## The gate: 61 questions before every deploy
 
-A script asks the running site 56 questions and checks each answer against patterns that must appear and patterns that must not.
+A script asks the running site 61 questions and checks each answer against patterns that must appear and patterns that must not.
 
 | Kind of question | What it checks |
 |---|---|
